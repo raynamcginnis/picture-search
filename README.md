@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Overview
+This React.js application contains a search bar and image display. When a user types a term into the search bar, a request is sent to the Unsplash API, and photos are then displayed in a a three column grid. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Technologies Used
+- React.js
+- HTML
+- CSS
+
+# Integrations
+- UnSplash API
+
+
+# Getting Started
+1. Clone this project in git by using ''
+2. Type npm start into the terminal.
 
 ## Available Scripts
 
