@@ -13,7 +13,7 @@ class App extends React.Component {
       .get("/search/photos", {
         params: {
           query: term,
-          per_page: 12,
+          per_page: 15,
         },
         
       });
@@ -24,9 +24,11 @@ class App extends React.Component {
   // Images from Imagebox are displayed
   render() {
     return (
+        <div className="app">
       <div className="ui container app-container">
         <SearchBar onSubmit={this.onSearchSubmit} />
         <ImageList images = {this.state.images} />
+      </div>
       </div>
     );
   }

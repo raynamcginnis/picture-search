@@ -1,5 +1,9 @@
 # Overview
-This React.js application contains a search bar and image display. When a user types a term into the search bar, a request is sent to the Unsplash API, and photos are then displayed in a a three column grid. 
+This React.js application contains a search bar and image display. When a user types a term into the search bar, a request is sent to the Unsplash API, and photos are then displayed in a a three column grid that was designed using CSS grid and JavaScript.
+
+![search bar](<./src/images/searchbar.png>)
+
+![search bar and results](<./src/images/image-search2.png>)
 
 # Technologies Used
 - React.js

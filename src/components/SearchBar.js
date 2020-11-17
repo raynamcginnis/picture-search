@@ -20,6 +20,7 @@ onFormSubmit = (event) => {
           <div className="field">
             <label>Image Search</label>
             <input type="text"
+            placeholder="Enter your topic of choice and then click enter..."
              value={this.state.term}
             onChange={e => this.setState({ term: e.target.value })}
              />

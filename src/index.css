@@ -1,0 +1,6 @@
+.ui.form .field label {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    padding: 2px;
+}
