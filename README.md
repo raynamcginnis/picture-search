@@ -9,10 +9,11 @@ This React.js application contains a search bar and image display. When a user t
 - React.js
 - HTML
 - CSS
+- JavaScript
 
 # Integrations
 - UnSplash API
-
+- Semantic UI
 
 # Getting Started
 1. Clone this project in git by using ''
